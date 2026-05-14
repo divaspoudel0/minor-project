@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+Data/combined
+#venv
+venv
+myenv
+train/
+backups/
+model/debug_output/*
+recordings/
